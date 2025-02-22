@@ -1,6 +1,6 @@
 # Vox App
 
-![Vox App Logo](./assets/logo.png)
+![Vox App Logo](./assets/vox-logo.png)
 
 🚀 **Vox App** is an interactive app for receiving anonymous feedback. Inspired by innovative projects and designed for modern web experiences, it leverages dynamic routing, server-side rendering, and engaging UI components to captivate users.
 
