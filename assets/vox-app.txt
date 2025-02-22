@@ -1,0 +1,34 @@
+Vox App -  requirement list 
+
+1. Unique Mystery Message Generation:
+   - Each visit (or dynamic route) must display a unique, randomly generated message.
+
+2. Dynamic Routing:
+   - Utilize Next.js dynamic routing to create individual pages (e.g., /message/[id]) for each mystery message.
+
+3. Server-side Rendering (SSR):
+   - Implement SSR to render pages on the server, ensuring fast load times and SEO-friendly content.
+
+4. API Integration:
+   - Develop Next.js API routes to fetch or generate mystery messages dynamically.
+
+5. Responsive Design:
+   - Ensure the app performs seamlessly on desktops, tablets, and mobile devices through a responsive UI.
+
+6. Engaging and Intuitive UI:
+   - Create a clean, user-friendly interface that enhances the overall mystery experience.
+
+7. Home/Landing Page:
+   - Provide a landing page that introduces users to the app and guides them to explore their mystery message.
+
+8. Performance Optimization:
+   - Optimize code and assets for quick load times and smooth interactions.
+
+9. Scalability & Maintainability:
+   - Structure the codebase to allow for future enhancements, additional features, and easy maintenance.
+
+10. Version Control & Deployment:
+    - Use Git for version control and plan for deployment on platforms like Vercel or similar hosting services.
+
+11. Environment Configuration:
+    - Utilize environment variables for API endpoints and other sensitive configuration details.
